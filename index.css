@@ -19,6 +19,7 @@ body{
     align-items: center;
     justify-content: center;
     margin: 0px auto;
+    border-radius: 5px;
 }
 #first{
     margin-top: -16px;
@@ -29,4 +30,5 @@ body{
     max-width: 100%;
     height: auto;
     margin: 0 auto;
+
 }
