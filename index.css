@@ -8,6 +8,9 @@ body{
     align-items: center;
     background-color: antiquewhite;
 }
+h2,h3,h4{
+    text-decoration: underline;
+}
 #title{
     background-color:bisque;
     margin-top: -20px;
@@ -32,3 +35,4 @@ body{
     margin: 0 auto;
 
 }
+
